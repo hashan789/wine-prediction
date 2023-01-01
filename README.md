@@ -50,7 +50,5 @@ In Mathematics, the Euclidean distance is defined as the distance between two po
 <img src="https://www.gstatic.com/education/formulas2/472522532/en/euclidean_distance.svg" color="white"/>
 
 <p>p,q = two points in euclidean distance</p>
-<br>
-<p>q<sub>i</sub>,p<sub>i</sub> = Euclidean vectors, starting from the origin of the space (initial point)</p>
-<br>
-n = n-space
+<p>q<sub>i</sub> , p<sub>i</sub> = Euclidean vectors, starting from the origin of the space (initial point)</p>
+<p>n = n-space</p>
