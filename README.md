@@ -1,1 +1,1 @@
-# wine-prediction
+# wine-prediction using knn algorithm 
